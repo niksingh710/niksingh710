@@ -25,8 +25,6 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 - 💬 &nbsp; Ask me about anything [here](https://t.me/niksingh710)! I am happy to help.
 - 👾 &nbsp; Fun fact: Linux enter doors takes us to a rabbit hole. (It's fun.)
 
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199086590217) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/niksingh710) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niksingh710/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/) &nbsp; <a href="mailto:nik.singh710@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/niksingh710/niksingh710/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
@@ -56,7 +54,9 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
-### Projects and Dev Stuffs:
+### How to Connect with me:
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199086590217) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/niksingh710) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niksingh710/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/) &nbsp; <a href="mailto:nik.singh710@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 <!-- <details>	 -->
 <div width="100%" align="center">
