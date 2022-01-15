@@ -55,20 +55,24 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 
 <!-- <details>	 -->
 <div width="100%" align="center">
-  <summary><b>⚡ Github Stats</b></summary>
+<br><br>
+  <h2><b>⚡ Github Stats</b></h2>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niksingh710&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react&bg_color=20232a" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react&bg_color=20232a"/>
 <!-- </details> -->
+<br><br>
 <!-- <details>	 -->
-  <summary><b>☄️ Github Streaks</b></summary>
+  <h2><b>☄️ Github Streaks</b></h2>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=niksingh710&hide_border=true&theme=react&bg_color=20232a" />
+<br><br>
 
-  <summary><b>📈 Github Graph</b></summary>
+  <h2><b>📈 Github Graph</b></h2>
   <img src="https://activity-graph.herokuapp.com/graph?username=niksingh710&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+<br><br>
 <!-- </details> -->
 <details>	
   <br />
@@ -82,7 +86,6 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 	    <br />
 	</ul>	
 </details>
-
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -104,7 +107,9 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 <h4 align="center">
   <a href="https://github.com/niksingh710?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-<br><br><br><br><br><br>
+<br><br>
+
+<h2 align="center">👨‍💻 Languages 👨‍💻</h2>
 
 #
 
