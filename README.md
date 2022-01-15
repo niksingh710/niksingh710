@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/niksingh710)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/niksingh710)
 <a href="https://reddit.com/u/macropower">
-<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/niksingh710?label=karma&logo=reddit">
 </a>
 [![](https://gitwar.herokuapp.com/badge?username=niksingh710&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
