@@ -102,7 +102,6 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 </div>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@498c7967-30d8-4915-9e73-46f96f812d92/22149c1b-5c20-4f2d-81ff-a043124334d7.png" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@498c7967-30d8-4915-9e73-46f96f812d92/22149c1b-5c20-4f2d-81ff-a043124334d7.png" /></a>
 <br><br><br><br><br><br>
 
 <h4 align="center">
