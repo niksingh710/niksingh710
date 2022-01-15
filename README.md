@@ -3,6 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/niksingh710)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/niksingh710)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/niksingh710)
+<a href="https://reddit.com/u/macropower">
+<img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+</a>
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://niksingh710.github.io/) -->
 
@@ -21,7 +24,9 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/niksingh710).
 - 💬 &nbsp; Ask me about anything [here](https://t.me/niksingh710)! I am happy to help.
 - 👾 &nbsp; Fun fact: Linux enter doors takes us to a rabbit hole. (It's fun.)
-- 📫 &nbsp; How to reach me: nik.singh710@gmail.com.
+
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/profiles/76561199086590217) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/niksingh710) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/niksingh710/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/) &nbsp; <a href="mailto:nik.singh710@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/niksingh710/niksingh710/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
