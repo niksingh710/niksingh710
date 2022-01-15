@@ -74,18 +74,7 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 </div>
 <br><br>
 <!-- </details> -->
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> KUbuntu 21.04 | Arch Based (I hop a lot)</li>
-	    <li><b>Laptop: </b> Lenovo Thinkbook 14 iml (i7-10gen) </li>
-  	    <li><b>Browser: </b> Chrome Browser | Depends have multiple</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Starship)</li>
-	    <li><b>Code Editor:</b>VIM (Neovim + lunarvim) | VSCode | Waiting for fleet.</li>
-	    <br />
-	</ul>	
-</details>
+
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -111,12 +100,21 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 
 <h2 align="center">👨‍💻 Languages 👨‍💻</h2>
 
-#
-
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@498c7967-30d8-4915-9e73-46f96f812d92/22149c1b-5c20-4f2d-81ff-a043124334d7.png" /></a>
 
 <div align="center">
-
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> KUbuntu 21.04 | Arch Based (I hop a lot)</li>
+	    <li><b>Laptop: </b> Lenovo Thinkbook 14 iml (i7-10gen) </li>
+  	    <li><b>Browser: </b> Chrome Browser | Depends have multiple</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (Starship)</li>
+	    <li><b>Code Editor:</b>VIM (Neovim + lunarvim) | VSCode | Waiting for fleet.</li>
+	    <br />
+	</ul>	
+</details>
 #
 
 ### Show some ❤️ by starring some of the repositories!
