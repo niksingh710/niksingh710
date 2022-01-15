@@ -102,7 +102,6 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@498c7967-30d8-4915-9e73-46f96f812d92/22149c1b-5c20-4f2d-81ff-a043124334d7.png" /></a>
 
-<div align="center">
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
@@ -115,7 +114,7 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 	    <br />
 	</ul>	
 </details>
-#
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
 
