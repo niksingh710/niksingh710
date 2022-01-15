@@ -54,13 +54,12 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 ### Projects and Dev Stuffs:
 
 <!-- <details>	 -->
-  <summary><b>⚡ Github Stats</b></summary>
 <div width="100%" align="center">
+  <summary><b>⚡ Github Stats</b></summary>
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niksingh710&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react&bg_color=20232a" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=react&bg_color=20232a"/>
 <!-- </details> -->
-</div>
 <!-- <details>	 -->
   <summary><b>☄️ Github Streaks</b></summary>
 
@@ -69,6 +68,7 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 
   <summary><b>📈 Github Graph</b></summary>
   <img src="https://activity-graph.herokuapp.com/graph?username=niksingh710&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
 <!-- </details> -->
 <details>	
   <br />
@@ -82,8 +82,6 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 	    <br />
 	</ul>	
 </details>
-
-#
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
@@ -101,14 +99,16 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
   <a align="right" href="https://github.com/niksingh710/Learn" title="Learn"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=Learn&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
+<br><br><br><br><br><br>
+
 <h4 align="center">
   <a href="https://github.com/niksingh710?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+<br><br><br><br><br><br>
 
 #
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@498c7967-30d8-4915-9e73-46f96f812d92/22149c1b-5c20-4f2d-81ff-a043124334d7.png" /></a>
-<br><br><br><br><br><br>
 
 <div align="center">
 
