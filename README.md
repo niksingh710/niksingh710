@@ -6,6 +6,7 @@
 <a href="https://reddit.com/u/macropower">
 <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
 </a>
+[![](https://gitwar.herokuapp.com/badge?username=niksingh710&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://niksingh710.github.io/) -->
 
@@ -14,8 +15,6 @@
 I'm a persuing graduation in Computer Science 🎓 from Gautam Buddha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Linux System and Operating Systems 🕸️ and working on my Data Structures and Algorithms 🤓.
 
 Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
-
-[![](https://gitwar.herokuapp.com/badge?username=niksingh710&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 ### Talking about Personal Stuffs:
 
