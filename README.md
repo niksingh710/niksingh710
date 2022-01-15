@@ -19,7 +19,7 @@ Hardcore Linux Lover (I do game on linux 💪). Opensource =~ Open Freedom.
 - 🛠 &nbsp; I’m currently working with Nodejs, Express,Sveltejs, <br /> Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently Exploring the Development Fields.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/niksingh710).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/niksingh710/niksingh710/issues/2)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://t.me/niksingh710)! I am happy to help.
 - 👾 &nbsp; Fun fact: Linux enter doors takes us to a rabbit hole. (It's fun.)
 - 📫 &nbsp; How to reach me: nik.singh710@gmail.com.
 <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/niksingh710/niksingh710/blob/master/resume.pdf). -->
