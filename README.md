@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile 🎉
 
+![](./nothing.gif)
+
 ## 👨‍💻 About Me
 
 I'm a tech enthusiast from India, and I love tinkering with different tools and technologies. My favorite OS is Arch Linux 🐧, and I'm an avid user of NeoVim for coding ✍️. I enjoy writing shell scripts 🐚, and I have advanced knowledge in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free time, I love playing music 🎸 and video games 🎮.
