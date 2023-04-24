@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Niksingh710!
+## 👋  नमस्ते, I'm Nikhil Singh!
 
 Welcome to my GitHub profile 🎉
 
