@@ -10,30 +10,12 @@ I'm a tech enthusiast from India, and I love tinkering with different tools and 
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&show_icons=true&layout=compact&langs_count=16&theme=dark)
 
 ### Tech Stack
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="display:inline-block;" alt="MongoDB"></code>
-<br>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display:inline-block;" alt="Linux"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="display:inline-block;" alt="Git"></code>
-<!-- <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" style="display:inline-block;" alt="Neovim"></code> -->
-<!-- <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" style="display:inline-block;" alt="Terminal"></code> -->
-<br>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="display:inline-block;" alt="HTML5" width="21px" height="21px"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="display:inline-block;" alt="CSS3" width="21px" height="21px"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display:inline-block;" alt="JavaScript" width="21px" height="21px"></code>
-<br>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="display:inline-block;" alt="Flutter"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display:inline-block;" alt="Node.js"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" style="display:inline-block;" alt="Svelte.js" >
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="display:inline-block;" alt="Express.js"></code>
-<br>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display:inline-block;" alt="Java"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display:inline-block;" alt="C++"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display:inline-block;" alt="C"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display:inline-block;" alt="Python"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="display:inline-block;" alt="Dart"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display:inline-block;" alt="JavaScript"></code>
 
+|Programming Languages |Front-End Development   |Frameworks and Libraries |Databases |Tools    |
+|----------------------|------------------------|--------------------------|----------|---------|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/> <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte.js" width="30" height="30"/> <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Sql" width="30" height="30"/><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/> <br>Neovim|
 
+In the above table, each technology is represented by an image along with its name. The technologies are divided into categories such as Programming Languages, Front-End Development, Frameworks and Libraries, Databases, and Tools.
 ## 👨‍💻 Repositories 👨‍💻
 
 I'm always working on something new, and you can find all my repositories below. Here are a few you can check:
