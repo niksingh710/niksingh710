@@ -46,4 +46,4 @@ I'm always working on something new, and you can find all my repositories below.
 Thanks for checking out my GitHub profile, and I hope you find something useful here! 🙌
 <br>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=niksingh710.niksingh710&label=Total%20Visitors&style=flat-square&color=red)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=niksingh710.niksingh710&label=Total%20Visitors&style=flat-square&color=blue)
