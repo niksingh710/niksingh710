@@ -6,6 +6,18 @@ Welcome to my GitHub profile 🎉
 
 I'm a tech enthusiast from India, and I love tinkering with different tools and technologies. My favorite OS is Arch Linux 🐧, and I'm an avid user of NeoVim for coding ✍️. I enjoy writing shell scripts 🐚, and I have advanced knowledge in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free time, I love playing music 🎸 and video games 🎮.
 
+## 📫 Get in Touch
+
+If you have any questions or just want to say hi, feel free to reach out! 
+
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/niksingh710/)](https://t.me/niksingh710/)
+[![Matrix](https://img.shields.io/badge/-Matrix-black?style=flat-square&logo=matrix&logoColor=white&link=https://matrix.to/#/@niksingh710:matrix.org)](https://matrix.to/#/@niksingh710:matrix.org)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/niksingh710/)](https://twitter.com/niksingh710/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/niksingh710/)](https://www.linkedin.com/in/niksingh710/)
+<br>
+[![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/niksingh710?label=karma&logo=reddit)](https://reddit.com/u/niksingh710)
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niksingh710&show_icons=true&theme=dark)
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&show_icons=true&layout=compact&langs_count=16&theme=dark)
 
@@ -30,18 +42,6 @@ I'm always working on something new, and you can find all my repositories below.
 [![base_convert](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=base_convert&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/base_convert) 
 [![performance-monitor](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=performance-monitor&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/performance-monitor)
 [![Learn](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=Learn&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/Learn)
-
-
-## 📫 Get in Touch
-
-If you have any questions or just want to say hi, feel free to reach out! 
-
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/niksingh710/)](https://t.me/niksingh710/)
-[![Matrix](https://img.shields.io/badge/-Matrix-black?style=flat-square&logo=matrix&logoColor=white&link=https://matrix.to/#/@niksingh710:matrix.org)](https://matrix.to/#/@niksingh710:matrix.org)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/niksingh710/)](https://twitter.com/niksingh710/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/niksingh710/)](https://www.linkedin.com/in/niksingh710/)
-<br>
-[![Reddit Karma](https://img.shields.io/reddit/user-karma/combined/niksingh710?label=karma&logo=reddit)](https://reddit.com/u/niksingh710)
 
 ## 🎉 Thanks for stopping by!
 
