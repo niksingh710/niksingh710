@@ -1,5 +1,3 @@
-![Header](https://raw.githubusercontent.com/niksingh710/niksingh710/main/banner.png "Header")
-
 ## 👋 Hey there, I'm Niksingh710!
 
 Welcome to my GitHub profile 🎉
@@ -12,28 +10,28 @@ I'm a tech enthusiast from India, and I love tinkering with different tools and 
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&show_icons=true&layout=compact&langs_count=16&theme=dark)
 
 ### Tech Stack
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="display:inline-block;" alt="MongoDB">
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" style="display:inline-block;" alt="MongoDB"></code>
 <br>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display:inline-block;" alt="Linux">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="display:inline-block;" alt="Git">
-<!-- <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" style="display:inline-block;" alt="Neovim"> -->
-<!-- <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" style="display:inline-block;" alt="Terminal"> -->
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display:inline-block;" alt="Linux"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="display:inline-block;" alt="Git"></code>
+<!-- <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" style="display:inline-block;" alt="Neovim"></code> -->
+<!-- <code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-original.svg" style="display:inline-block;" alt="Terminal"></code> -->
 <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="display:inline-block;" alt="HTML5" width="21px" height="21px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="display:inline-block;" alt="CSS3" width="21px" height="21px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display:inline-block;" alt="JavaScript" width="21px" height="21px">
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="display:inline-block;" alt="HTML5" width="21px" height="21px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="display:inline-block;" alt="CSS3" width="21px" height="21px"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display:inline-block;" alt="JavaScript" width="21px" height="21px"></code>
 <br>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="display:inline-block;" alt="Flutter">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display:inline-block;" alt="Node.js">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" style="display:inline-block;" alt="Svelte.js" >
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="display:inline-block;" alt="Express.js">
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="display:inline-block;" alt="Flutter"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="display:inline-block;" alt="Node.js"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" style="display:inline-block;" alt="Svelte.js" >
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" style="display:inline-block;" alt="Express.js"></code>
 <br>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display:inline-block;" alt="Java">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display:inline-block;" alt="C++">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display:inline-block;" alt="C">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display:inline-block;" alt="Python">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="display:inline-block;" alt="Dart">
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display:inline-block;" alt="JavaScript">
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display:inline-block;" alt="Java"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display:inline-block;" alt="C++"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display:inline-block;" alt="C"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display:inline-block;" alt="Python"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" style="display:inline-block;" alt="Dart"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display:inline-block;" alt="JavaScript"></code>
 
 
 ## 👨‍💻 Repositories 👨‍💻
