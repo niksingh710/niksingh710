@@ -33,7 +33,7 @@ in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free tim
 ![Github
 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&show_icons=true&layout=compact&langs_count=16&theme=dark)
 
-![Stat Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niksingh710&theme=github_dark)
+![Stat Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niksingh710&theme=dark)
 
 ## 👨‍💻 Repositories 👨‍💻
 
