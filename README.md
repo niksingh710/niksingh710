@@ -1,6 +1,6 @@
 <div align="center">
-
-  # Welcome to my GitHub profile 🎉
+  
+![wave](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Nikhil%20Singh&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile!&descAlignY=51&descAlign=62)
 
   ![](./nothing.gif)
 
@@ -32,6 +32,8 @@ in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free tim
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=niksingh710&show_icons=true&theme=dark)
 ![Github
 stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&show_icons=true&layout=compact&langs_count=16&theme=dark)
+
+![Stat Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niksingh710&theme=github_dark)
 
 ## 👨‍💻 Repositories 👨‍💻
 
