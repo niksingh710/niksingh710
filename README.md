@@ -53,10 +53,20 @@ Repositories](https://img.shields.io/badge/My%20GitHub%20Repositories-See%20them
 
 ### Tech Stack
 
-|Programming Languages |Front-End Development   |Frameworks and Libraries |Databases |Tools    |
-|----------------------|------------------------|--------------------------|----------|---------|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> C++<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/> C<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/> Dart<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/> HTML5<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30"/> CSS3<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/> Flutter<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/> Node.js<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte.js" width="30" height="30"/> Svelte.js<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30"/> Express.js  |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="30" height="30"/> MySql <br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/> MongoDB   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> Linux<br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/> Git<br>Terminal<br>Neovim|
+#### Programming Languages
+![language](https://skillicons.dev/icons?i=java,cpp,c,python,dart,javascript&theme=dark)
 
+#### Front-End Development
+![fromtend](https://skillicons.dev/icons?i=html,css,javascript&theme=dark)
+
+#### Frameworks
+![frameworks](https://skillicons.dev/icons?i=svelte,express,nodejs,flutter&theme=dark)
+
+#### Database
+![database](https://skillicons.dev/icons?i=mysql,mongo&theme=dark)
+
+#### Tools
+![Tools](https://skillicons.dev/icons?i=bash,linux,git,vim,neovim&theme=dark)
 
 ## 🎉 Thanks for stopping by!
 
