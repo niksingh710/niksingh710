@@ -29,9 +29,9 @@ I'm a tech enthusiast from India, and I love tinkering with different tools and 
 Linux 🐧, and I'm an avid user of NeoVim for coding ✍️. I enjoy writing shell scripts 🐚, and I have advanced knowledge
 in Python 🐍, Java ☕, and intermediate proficiency in C 🤖. In my free time, I love playing music 🎸 and video games 🎮.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=niksingh710&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=niksingh710&show_icons=true&theme=dark&hidden_border=true)
 ![Github
-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&show_icons=true&layout=compact&langs_count=16&theme=dark)
+stats](https://github-readme-stats.vercel.app/api/top-langs/?username=niksingh710&show_icons=true&layout=compact&langs_count=16&theme=dark&hidden_border=true)
 
 ![Stat Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niksingh710&theme=dark)
 
@@ -42,7 +42,7 @@ I'm always working on something new, and you can find all my repositories below.
 [![My GitHub
 Repositories](https://img.shields.io/badge/My%20GitHub%20Repositories-See%20them%20all-black?style=for-the-badge&logo=github)](https://github.com/niksingh710?tab=repositories)
 
-[![TicTacToe-Ai](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=TicTacToe-Ai&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/TicTacToe-Ai)
+[![TicTacToe-Ai](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=TicTacToe-Ai&theme=dark&border_color=#fff&border_radius=10&hidden_border=true)](https://github.com/niksingh710/TicTacToe-Ai)
 [![Rock_Paper_Scissor](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=Rock_Paper_Scissor&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/Rock_Paper_Scissor)
 [![CenterAligh](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=center-align&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/center-align)
 [![Basicbatterystat](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=basic-battery-stat&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/basic-battery-stat)
