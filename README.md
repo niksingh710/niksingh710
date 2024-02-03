@@ -61,11 +61,11 @@ I'm always working on something new, and you can find all my repositories below.
 [![My GitHub
 Repositories](https://img.shields.io/badge/My%20GitHub%20Repositories-See%20them%20all-black?style=for-the-badge&logo=github)](https://github.com/niksingh710?tab=repositories)
 
-[![Tmux Status Minimal](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=minimal-tmux-status&theme=dark&border_color=#fff&border_radius=10&hidden_border=true)](https://github.com/niksingh710/TicTacToe-Ai)
-[![Cli](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=cli&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/Rock_Paper_Scissor)
-[![CenterAligh](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=center-align&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/center-align)
+[![Tmux Status Minimal](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=minimal-tmux-status&theme=dark&border_color=#fff&border_radius=10&hidden_border=true)](https://github.com/niksingh710/minimal-tmux-status)
+[![Cli](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=cli&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/cli)
+[![CenterAlign](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=center-align&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/center-align)
 [![Basicbatterystat](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=basic-battery-stat&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/basic-battery-stat)
-[![nvim](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=nvim&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/SpeechText)
+[![nvim](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=nvim&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/nvim)
 [![base_convert](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=base_convert&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/base_convert)
 [![performance-monitor](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=performance-monitor&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/performance-monitor)
 [![Learn](https://github-readme-stats.vercel.app/api/pin/?username=niksingh710&repo=Learn&theme=dark&border_color=#fff&border_radius=10)](https://github.com/niksingh710/Learn)
