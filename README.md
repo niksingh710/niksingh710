@@ -4,7 +4,7 @@
 
 </div>
 
-## [Hi there!](https://niksingh710.vercel.app/) 
+## [Hi there!](https://niksingh710.vercel.app/) 👋
 
 A software developer by day and a logic lover by night! I find immense satisfaction in crafting efficient systems and tackling complex problems. 
 
