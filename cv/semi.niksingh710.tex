@@ -1,0 +1,200 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{multicol}
+\input{glyphtounicode}
+
+\setlength{\footskip}{4.08003pt}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubheadingCollege}[6]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+      \textit{\small#5} & \textit{\small #6} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+\begin{document}
+\begin{center}
+	\textbf{\Huge Nikhil Singh} \\ \vspace{1pt}
+	\small +91 9560324262 $|$ \href{mailto:nik.singh710@gmail.com}{\underline{nik.singh710@gmail.com}} $|$
+	\href{https://linkedin.com/in/niksingh710}{\underline{linkedin.com/in/niksingh710}} $|$
+	\href{https://github.com/niksingh710}{\underline{github.com/niksingh710}}
+\end{center}
+
+%-----------EDUCATION-----------
+\vspace{-15pt}
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheadingCollege
+{Gautam Buddha University}{Greater Noida, UP}
+{Master's of Technology in Software Engineering \tiny(8.2 CGPA)}{Aug. 2023 -- May 2025}
+{Bachelor's of Technology in Computer Science Engineering}{Aug. 2020 -- Aug. 2023}
+
+% \resumeSubheadingCollege
+% {Holy Trinity Church School}{Ghaziabad, UP}
+% {Higher Secondary School (ICSE): 80\%}{Aug. 2018 -- May 2020}
+% {Secondary School (ICSE): 83\%}{Aug. 2016 -- May 2018}
+\resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\vspace{-15pt}
+\section{Experience}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Product Engineer}{June. 2025 -- Present}
+{Juspay Technologies}{Bengaluru, KA}
+\resumeItemListStart
+\resumeItem{Hired through open-source contributions to Juspay’s Nix ecosystem.}
+\resumeItem{Nixified and maintained internal projects across multiple stacks (Rust, Python), enabling reproducible builds and deployments.}
+\resumeItem{Contributed to open-source projects: \textbf{Hyperswitch} (payment orchestration platform) and \textbf{Omnix} (internal tool for Nix-based CI automation).}
+\resumeItem{Improved developer workflows and CI/CD reliability by building declarative environments and reducing drift.}
+\resumeItem{Provided ongoing support and tooling for cloud-native reproducibility, ensuring minimal breakage and scalable system design.}
+\resumeItemListEnd
+\vspace{-5pt}
+
+\resumeSubheading
+{Researcher — Systems \& Software Engineering}{May 2023 -- May 2025}
+{Gautam Buddha University}{Greater Noida, UP}
+\resumeItemListStart
+\resumeItem{Published IEEE paper: \textit{Modularity and Lazy Evaluation in NixOS: A Functional Approach to Operating System Configuration} \href{https://ieeexplore.ieee.org/document/10991248}{[IEEE Xplore]}.}
+\resumeItem{Built reusable NixOS configuration modules across diverse hardware, focusing on reproducibility, caching, and deployment automation using Nix flakes.}
+\resumeItem{Co-authored IEEE paper: \textit{Machine Learning-Based Prediction of Heavy Rainfall Days in the Northern Himalayas: A Case Study of Shimla, Srinagar and Kargil} \href{https://ieeexplore.ieee.org/document/10990912}{[IEEE Xplore]}.}
+\resumeItemListEnd
+\vspace{-5pt}
+
+\resumeSubheading
+{Other Professional Experience}{2023 -- 2024}
+{Multiple Roles}{Remote \& Greater Noida}
+\resumeItemListStart
+\resumeItem{Software Developer Intern at DECET Technology — built Flask REST APIs, Go CLI daemons, and automated Linux server workflows.}
+\resumeItem{Conducted workshops on Nix-based reproducible environments and Git workflows for 100+ students.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\vspace{-15pt}
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+{\textbf{Open Source Contributions} $|$ \emph{Rust, Bash, Nix, Git}}{Ongoing}
+\resumeItemListStart
+\resumeItem{Maintainer of \href{https://github.com/niksingh710/tmux-minimal-status}{Tmux Minimal Status} (110+ stars).}
+\resumeItem{Contributed patches and package maintenance to \href{https://github.com/hyprwm/contrib}{Hyprwm Contrib}, AUR, and Nixpkgs.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Ndots \& Nvix} $|$ \emph{Nix, Neovim}}{2024 -- Present}
+\resumeItemListStart
+\resumeItem{Built modular NixOS configs (\texttt{flake-parts}, \texttt{disko}, \texttt{impermanence}) for reproducible deployments.}
+\resumeItem{Developed declarative Neovim distribution with modular profiles and plugin integration.}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Custom Android Build System} $|$ \emph{CI/CD, Java, Linux}}{2019 -- 2022}
+\resumeItemListStart
+\resumeItem{Automated custom ROM builds and OTA packaging with Jenkins across multiple devices.}
+\resumeItem{Debugged AOSP/kernel build issues and managed patch workflows.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\vspace{-20pt}
+\section{Skills}
+\vspace{-15pt}
+\begin{multicols}{2}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+        \textbf{Programming Languages}{: Rust, Go, Java, Bash, Python, C/C++, Nix} \\
+        \textbf{Infra \& Automation}{: NixOS/Flakes, Cachix, Disko, Docker, GCP, Jenkins, GitHub Actions} \\
+        \textbf{Developer Tools}{: Git, Neovim, Tmux, VSCode, QEMU, SSH} \\
+        \textbf{Databases}{: MySQL, MongoDB (Mongoose)} \\
+        \textbf{Frameworks}{: Flask, Node.js, Svelte} \\
+        \textbf{Core Expertise}{: Reproducible builds, declarative infra, CI/CD pipelines, minimalist system design, debugging, open-source contributions}
+    }}
+\end{itemize}
+\end{multicols}
+
+\textbf{Highlights}{: 2 IEEE publications, open-source maintainer, production infra experience at scale}
+
+\end{document}
